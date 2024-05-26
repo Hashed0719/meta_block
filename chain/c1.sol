@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.25;
 
-contract helloWorld {
-    string myString = "Hello world!";
+contract challenge1 {
+    string myString = "Hello solidity!";
     int myint = -1;
     uint myuint = 0;
     bool mybool;
