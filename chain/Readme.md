@@ -1,10 +1,10 @@
-# Project Title
+# Project 2 metacrafters  
 
-Simple overview of use/purpose.
+In this code file (c2.sol) we have made a contract with two functions for creating our own token and burning them superficially. 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+In initial lines we have declared 3 variables demonstrating the attributes of our token and a total supply count, then we have declared the minttoken() function which will simply add the value to the mapping variable holding the account details and their corresponding values the minttoken function will increment the passed value in mapping variable and also in the total supply. The counterpart of minttoken() function is burntoken() which will subtract the value corresponding to the passed account in mapping variable holding account-value combinations. 
 
 ## Getting Started
 
